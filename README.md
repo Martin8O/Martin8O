@@ -42,6 +42,12 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
 
 <br>
 
+**[Website](https://github.com/Martin8O/Website)** — the scrollytelling site this profile opens with: one 2D canvas world, no page you "read", a life you scroll through. &nbsp;·&nbsp; `React · TS · Vite` &nbsp;·&nbsp; [svobodamartin.dev](https://svobodamartin.dev)
+
+<a href="https://svobodamartin.dev"><img src="https://raw.githubusercontent.com/Martin8O/Website/main/docs/assets/solo-developer.png" alt="This Site — the Work panel: real projects, live links" width="100%"></a>
+
+<br>
+
 **[Registrace](https://github.com/Martin8O/Registrace)** — a bilingual (CZ/EN) event-registration platform for 25 Buddhist centres: self/group sign-up, server-side pricing, emailed confirmations, role-scoped admin. &nbsp;·&nbsp; `Next.js · Prisma · Supabase` &nbsp;·&nbsp; [registrace.online](https://registrace.online)
 
 <a href="https://registrace.online"><img src="https://raw.githubusercontent.com/Martin8O/Registrace/main/docs/screenshots/public-home-en.png" alt="Registrace — bilingual event registration" width="100%"></a>
@@ -50,7 +56,9 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
 
 **[Těnovice](https://www.one-tenovice.cz)** — a fundraising page for a Buddhist retreat centre, built with [Anna Rozumová](https://github.com/AnnaRozumova) for a friends' org. &nbsp;·&nbsp; `AWS CDK · Serverless` &nbsp;·&nbsp; [source ↗](https://github.com/AnnaRozumova/Tenovice_fund_page)
 
-<a href="https://www.one-tenovice.cz"><img src="assets/tenovice.png" alt="Těnovice — fundraising for a Buddhist retreat centre" width="520"></a>
+<p align="center">
+  <a href="https://www.one-tenovice.cz"><img src="assets/tenovice.png" alt="Těnovice — fundraising for a Buddhist retreat centre" width="520"></a>
+</p>
 
 <br>
 
@@ -63,12 +71,6 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
 **[ClearFeed](https://github.com/Martin8O/ClearFeed)** — a Chrome (MV3) extension that quietly mutes the topics you'd rather not see (politics, sports, spoilers, crypto) across news sites & feeds. 100% local, zero tracking. &nbsp;·&nbsp; `JavaScript`
 
 <a href="https://github.com/Martin8O/ClearFeed"><img src="https://raw.githubusercontent.com/Martin8O/ClearFeed/main/assets/hero.png" alt="ClearFeed — mute the topics you'd rather not see" width="100%"></a>
-
-<br>
-
-**[Website](https://github.com/Martin8O/Website)** — the scrollytelling site above: one 2D canvas world, no page you "read", a life you scroll through. &nbsp;·&nbsp; `React · TS · Vite` &nbsp;·&nbsp; [svobodamartin.dev](https://svobodamartin.dev)
-
-<a href="https://svobodamartin.dev"><img src="https://raw.githubusercontent.com/Martin8O/Website/main/docs/assets/solo-developer.png" alt="This Site — the Work panel: real projects, live links" width="100%"></a>
 
 <br>
 
