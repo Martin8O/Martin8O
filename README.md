@@ -1,5 +1,5 @@
 <h3 align="center">Martin Svoboda</h3>
-<p align="center"><em>Fighter pilot&nbsp;→&nbsp;self-healer&nbsp;→&nbsp;Bitcoiner&nbsp;→&nbsp;I build real software with Claude Code</em></p>
+<p align="center"><em>Military jet pilot&nbsp;→&nbsp;self-healer&nbsp;→&nbsp;Bitcoiner&nbsp;→&nbsp;I build real software with Claude Code</em></p>
 <p align="center">
   <a href="https://svobodamartin.dev"><b>🌍&nbsp;&nbsp;svobodamartin.dev</b></a>
 </p>
