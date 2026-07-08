@@ -14,9 +14,12 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
 
 > *Don't trust; verify.*
 
+<br>
+
 #### 🛠️ &nbsp;Built with Claude Code — 2026
 
 **RL Lab** — train, watch & play against reinforcement-learning agents across 100+ environments; 9 algorithms plus a research-grade Data Lab. &nbsp;·&nbsp; `Python · PyTorch` &nbsp;·&nbsp; *private while licensing is sorted out*
+
 <img src="assets/rl/hero.svg" alt="RL Lab — train, watch & play reinforcement-learning agents" width="100%">
 
 <table>
@@ -37,24 +40,43 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
   </tr>
 </table>
 
+<br>
+
 **[Registrace](https://github.com/Martin8O/Registrace)** — a bilingual (CZ/EN) event-registration platform for 25 Buddhist centres: self/group sign-up, server-side pricing, emailed confirmations, role-scoped admin. &nbsp;·&nbsp; `Next.js · Prisma · Supabase` &nbsp;·&nbsp; [registrace.online](https://registrace.online)
+
 <a href="https://registrace.online"><img src="https://raw.githubusercontent.com/Martin8O/Registrace/main/docs/screenshots/public-home-en.png" alt="Registrace — bilingual event registration" width="100%"></a>
 
+<br>
+
 **[Těnovice](https://www.one-tenovice.cz)** — a fundraising page for a Buddhist retreat centre, built with [Anna Rozumová](https://github.com/AnnaRozumova) for a friends' org. &nbsp;·&nbsp; `AWS CDK · Serverless` &nbsp;·&nbsp; [source ↗](https://github.com/AnnaRozumova/Tenovice_fund_page)
+
 <a href="https://www.one-tenovice.cz"><img src="assets/tenovice.png" alt="Těnovice — fundraising for a Buddhist retreat centre" width="520"></a>
 
+<br>
+
 **[BrainQuest](https://github.com/Martin8O/BrainQuest)** — turns an Obsidian knowledge vault into a learning game: spaced repetition (FSRS), a skill-tree of concepts, and an AI tutor. &nbsp;·&nbsp; `Next.js · TypeScript`
+
 <a href="https://github.com/Martin8O/BrainQuest"><img src="https://raw.githubusercontent.com/Martin8O/BrainQuest/main/docs/screenshots/01-home.jpg" alt="BrainQuest — an Obsidian vault as a learning game" width="100%"></a>
 
+<br>
+
 **[ClearFeed](https://github.com/Martin8O/ClearFeed)** — a Chrome (MV3) extension that quietly mutes the topics you'd rather not see (politics, sports, spoilers, crypto) across news sites & feeds. 100% local, zero tracking. &nbsp;·&nbsp; `JavaScript`
+
 <a href="https://github.com/Martin8O/ClearFeed"><img src="https://raw.githubusercontent.com/Martin8O/ClearFeed/main/assets/hero.png" alt="ClearFeed — mute the topics you'd rather not see" width="100%"></a>
 
+<br>
+
 **[Website](https://github.com/Martin8O/Website)** — the scrollytelling site above: one 2D canvas world, no page you "read", a life you scroll through. &nbsp;·&nbsp; `React · TS · Vite` &nbsp;·&nbsp; [svobodamartin.dev](https://svobodamartin.dev)
+
 <a href="https://svobodamartin.dev"><img src="https://raw.githubusercontent.com/Martin8O/Website/main/docs/assets/solo-developer.png" alt="This Site — the Work panel: real projects, live links" width="100%"></a>
+
+<br>
 
 #### 🧪 &nbsp;Earlier — first vibe-coding experiments (Lovable)
 
 **[strc-check](https://github.com/Martin8O/strc-check)** &nbsp;·&nbsp; **[Wealth-Deck](https://github.com/Martin8O/Wealth-Deck)** &nbsp;·&nbsp; **[Due-Deck](https://github.com/Martin8O/Due-Deck)** &nbsp;·&nbsp; **[Rand-Pulse](https://github.com/Martin8O/Rand-Pulse)**
+
+<br>
 
 #### ✉️ &nbsp;Reach me
 
