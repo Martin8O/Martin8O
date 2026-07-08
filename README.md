@@ -42,7 +42,7 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
 
 <br>
 
-**[Website](https://github.com/Martin8O/Website)** — the scrollytelling site this profile opens with: one 2D canvas world, no page you "read", a life you scroll through. &nbsp;·&nbsp; `React · TS · Vite` &nbsp;·&nbsp; [svobodamartin.dev](https://svobodamartin.dev)
+**[Website](https://github.com/Martin8O/Website)** — you don't read it, you fly through it — one 2D canvas world. &nbsp;·&nbsp; `React · TS · Vite` &nbsp;·&nbsp; [svobodamartin.dev](https://svobodamartin.dev)
 
 <a href="https://svobodamartin.dev"><img src="https://raw.githubusercontent.com/Martin8O/Website/main/docs/assets/solo-developer.png" alt="This Site — the Work panel: real projects, live links" width="100%"></a>
 
