@@ -28,9 +28,29 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
 **[Website](https://github.com/Martin8O/Website)** — the scrollytelling site above: one 2D canvas world, no page you "read", a life you scroll through. &nbsp;·&nbsp; `React · TS · Vite` &nbsp;·&nbsp; [svobodamartin.dev](https://svobodamartin.dev)
 <a href="https://svobodamartin.dev"><img src="https://raw.githubusercontent.com/Martin8O/Website/main/docs/assets/solo-developer.png" alt="This Site — the Work panel: real projects, live links" width="100%"></a>
 
-**[Těnovice](https://www.one-tenovice.cz)** — a fundraising page for a Buddhist retreat centre (built with a friends' org). &nbsp;·&nbsp; `AWS CDK · Serverless`
+**[Těnovice](https://www.one-tenovice.cz)** — a fundraising page for a Buddhist retreat centre, built with [Anna Rozumová](https://github.com/AnnaRozumova) for a friends' org. &nbsp;·&nbsp; `AWS CDK · Serverless` &nbsp;·&nbsp; [source ↗](https://github.com/AnnaRozumova/Tenovice_fund_page)
+<a href="https://www.one-tenovice.cz"><img src="https://raw.githubusercontent.com/Martin8O/Website/main/public/shots/tenovice-0.jpg" alt="Těnovice — fundraising for a Buddhist retreat centre" width="100%"></a>
 
 **RL Lab** — train, watch & play against reinforcement-learning agents across 100+ environments; 9 algorithms plus a research-grade Data Lab. &nbsp;·&nbsp; `Python · PyTorch` &nbsp;·&nbsp; *private while licensing is sorted out*
+<img src="assets/rl/hero.svg" alt="RL Lab — train, watch & play reinforcement-learning agents" width="100%">
+
+<table>
+  <tr>
+    <td><img src="assets/rl/breakout.gif" width="250" alt="Breakout — DQN"></td>
+    <td><img src="assets/rl/lunarlander.gif" width="250" alt="Lunar Lander — Neuroevolution"></td>
+    <td><img src="assets/rl/carracing.gif" width="250" alt="Car Racing — PPO"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/rl/checkers.gif" width="250" alt="Checkers — AlphaZero"></td>
+    <td><img src="assets/rl/bipedalwalker.gif" width="250" alt="Bipedal Walker — PPO"></td>
+    <td><img src="assets/rl/pong.gif" width="250" alt="Pong — PPO"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/rl/humanoid.gif" width="250" alt="Humanoid — SAC"></td>
+    <td><img src="assets/rl/pursuit.gif" width="250" alt="Pursuit — cooperative multi-agent PPO"></td>
+    <td><img src="assets/rl/walker2d.gif" width="250" alt="Walker2D — PPO"></td>
+  </tr>
+</table>
 
 #### 🧪 &nbsp;Earlier — first vibe-coding experiments (Lovable)
 
