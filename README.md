@@ -21,19 +21,19 @@ Czech, born 1980. I spent my flying career — about <b>1,700 hours</b> — in t
 
 <table>
   <tr>
-    <td><img src="assets/rl/breakout.gif" width="250" alt="Breakout — DQN"></td>
-    <td><img src="assets/rl/lunarlander.gif" width="250" alt="Lunar Lander — Neuroevolution"></td>
-    <td><img src="assets/rl/carracing.gif" width="250" alt="Car Racing — PPO"></td>
+    <td align="center"><img src="assets/rl/breakout.gif" width="250" alt="Breakout — DQN"></td>
+    <td align="center"><img src="assets/rl/lunarlander.gif" width="250" alt="Lunar Lander — Neuroevolution"></td>
+    <td align="center"><img src="assets/rl/carracing.gif" width="250" alt="Car Racing — PPO"></td>
   </tr>
   <tr>
-    <td><img src="assets/rl/checkers.gif" width="250" alt="Checkers — AlphaZero"></td>
-    <td><img src="assets/rl/bipedalwalker.gif" width="250" alt="Bipedal Walker — PPO"></td>
-    <td><img src="assets/rl/pong.gif" width="250" alt="Pong — PPO"></td>
+    <td align="center"><img src="assets/rl/checkers.gif" width="250" alt="Checkers — AlphaZero"></td>
+    <td align="center"><img src="assets/rl/bipedalwalker.gif" width="250" alt="Bipedal Walker — PPO"></td>
+    <td align="center"><img src="assets/rl/doom.gif" width="250" alt="Doom: Defend the Center — PPO from pixels"></td>
   </tr>
   <tr>
-    <td><img src="assets/rl/humanoid.gif" width="250" alt="Humanoid — SAC"></td>
-    <td><img src="assets/rl/pursuit.gif" width="250" alt="Pursuit — cooperative multi-agent PPO"></td>
-    <td><img src="assets/rl/walker2d.gif" width="250" alt="Walker2D — PPO"></td>
+    <td align="center"><img src="assets/rl/humanoid.gif" width="250" alt="Humanoid — SAC"></td>
+    <td align="center"><img src="assets/rl/pursuit.gif" width="250" alt="Pursuit — cooperative multi-agent PPO"></td>
+    <td align="center"><img src="assets/rl/pong.gif" width="250" alt="Pong — PPO"></td>
   </tr>
 </table>
 
